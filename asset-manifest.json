@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/TechnoHub/static/css/main.b2829f02.css",
+    "main.js": "/TechnoHub/static/js/main.6f98cdfd.js",
+    "static/media/marketing": "/TechnoHub/static/media/marketing.04442509baa17e38433e",
+    "static/media/software.jpg": "/TechnoHub/static/media/software.a0b4f3e040c85ba92b26.jpg",
+    "static/media/home.png": "/TechnoHub/static/media/home.c6a2f3864bb74a0f0027.png",
+    "static/media/web.jpg": "/TechnoHub/static/media/web.dbe6599cdf28a5d288b8.jpg",
+    "static/media/digital": "/TechnoHub/static/media/digital.02c1cbedff0643d1c600",
+    "static/media/app.jpg": "/TechnoHub/static/media/app.662f6dc6d65e661be6cf.jpg",
+    "static/media/about.avif": "/TechnoHub/static/media/about.18b0f93980ef0d8a32a3.avif",
+    "static/media/android": "/TechnoHub/static/media/android.1e510652dcdcc207f1ce",
+    "index.html": "/TechnoHub/index.html",
+    "main.b2829f02.css.map": "/TechnoHub/static/css/main.b2829f02.css.map",
+    "main.6f98cdfd.js.map": "/TechnoHub/static/js/main.6f98cdfd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2829f02.css",
+    "static/js/main.6f98cdfd.js"
+  ]
+}
